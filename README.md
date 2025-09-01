@@ -51,4 +51,6 @@ Upload APK → Select Scan Mode → Static Analysis → Scoring Engine → Visua
 <img width="1205" height="476" alt="image" src="https://github.com/user-attachments/assets/f3e72a6a-21b4-4b76-9056-ac6e1aa32098" />
 <img width="1198" height="628" alt="image" src="https://github.com/user-attachments/assets/ed6f15e1-df85-436c-8009-ef9174212b17" />
 
+📜 License
 
+This project is for academic & hackathon use only. Not intended for production banking environments.
